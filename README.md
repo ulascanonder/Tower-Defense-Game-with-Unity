@@ -3,11 +3,11 @@
 <p>Here is an experimental Tower Defense game I've made using Unity.</p>
 
 
-<img src = "https://github.com/ulascanonder/Tower-Defense-Game-with-Unity/assets/103257323/2a60221e-e85d-4a9f-a798-bb1148de7c8e" length = 500em width = 500em>
-<img src = "https://github.com/ulascanonder/Tower-Defense-Game-with-Unity/assets/103257323/0bac13db-09ea-4689-8566-8407ae103893" length = 500em width = 500em>
+<img src = "https://github.com/ulascanonder/Tower-Defense-Game-with-Unity/assets/103257323/2a60221e-e85d-4a9f-a798-bb1148de7c8e" length = 400em width = 400em>
+<img src = "https://github.com/ulascanonder/Tower-Defense-Game-with-Unity/assets/103257323/0bac13db-09ea-4689-8566-8407ae103893" length = 400em width = 400em>
 
-<img src = "https://github.com/ulascanonder/Tower-Defense-Game-with-Unity/assets/103257323/578a1d19-7d53-417e-a7c9-b13fcdcea057" length = 500em width = 500em>
-<img src = "https://github.com/ulascanonder/Tower-Defense-Game-with-Unity/assets/103257323/87969afa-7765-435d-80d2-ced4fefe8688" length = 500em width = 500em>
+<img src = "https://github.com/ulascanonder/Tower-Defense-Game-with-Unity/assets/103257323/578a1d19-7d53-417e-a7c9-b13fcdcea057" length = 400em width = 400em>
+<img src = "https://github.com/ulascanonder/Tower-Defense-Game-with-Unity/assets/103257323/87969afa-7765-435d-80d2-ced4fefe8688" length = 400em width = 400em>
 
 
 <p>
