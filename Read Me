@@ -1,0 +1,7 @@
+Here is an experimental Tower Defense game I've made using Unity.
+
+Notes:
+The game is designed to run with 1125 x 2436 resolution.
+Gameplay instructions are present in the game itself.
+I've used DOTween (HOTween v2) asset for tweening.
+I've also used Pixel Art Top Down - Basic asset for visual decoration.
