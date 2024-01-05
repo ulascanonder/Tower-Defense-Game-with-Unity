@@ -1,6 +1,6 @@
 <h1> Tower Defense </h1>
 
-Here is an experimental Tower Defense game I've made using Unity.
+<p>Here is an experimental Tower Defense game I've made using Unity.</p>
 
 
 ![Ekran Görüntüsü (24)](https://github.com/ulascanonder/Tower-Defense-Game-with-Unity/assets/103257323/2a60221e-e85d-4a9f-a798-bb1148de7c8e)
